@@ -38,5 +38,4 @@ Follow these steps to run the project locally:
    npm run dev
 
 8. **Access the app**:
-   ```bash
    You can now open the project in your browser at http://localhost:5173/
