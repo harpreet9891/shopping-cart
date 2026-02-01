@@ -30,10 +30,13 @@ Follow these steps to run the project locally:
    cd shopping-cart
    
 4. **Install dependencies**:
+   ```bash
    npm install
 
-5. **Start the development server**:
+6. **Start the development server**:
+   ```bash
    npm run dev
 
-6. **Access the app**:
+8. **Access the app**:
+   ```bash
    You can now open the project in your browser at http://localhost:5173/
