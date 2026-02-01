@@ -38,4 +38,4 @@ Follow these steps to run the project locally:
    npm run dev
 
 8. **Access the app**:
-   You can now open the project in your browser at http://localhost:5173/
+   You can now open the project in your browser at http://localhost:5173/(for local development) or check the live app at https://shopping-cart-psi-tan.vercel.app/
