@@ -26,13 +26,14 @@ Follow these steps to run the project locally:
    git clone https://github.com/harpreet9891/shopping-cart
    
 2. **Navigate into the project directory**:
+   ```bash
    cd shopping-cart
    
-3. **Install dependencies**:
+4. **Install dependencies**:
    npm install
 
-4. **Start the development server**:
+5. **Start the development server**:
    npm run dev
 
-5. **Access the app**:
+6. **Access the app**:
    You can now open the project in your browser at http://localhost:5173/
