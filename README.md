@@ -6,8 +6,8 @@ This is a shopping cart built using React and Vite.
 ## Features
 - **Product Listing**: Products are displayed on the home page.
 - **Search**: Users can search for products by name.
-- **Add/Remove from Cart**: Users can add or remove products from the cart.
-- **Cart Page**: View products added to the cart, adjust quantity, or remove items.
+- **Add/Remove from Cart**: Users can add or remove products from the cart page.
+- **Goto Top**: Scroll to top functionality when user clicks on Add to Cart button
   
 ## Technologies Used
 - React
